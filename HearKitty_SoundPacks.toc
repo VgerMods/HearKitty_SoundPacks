@@ -1,0 +1,7 @@
+## Interface: 90200
+## Dependencies: HearKitty
+## Version: Volume 2 (WoW 9.2.0)
+## Title: Hear Kitty: official sounds
+## Notes: Adds several additional sound packs to Hear Kitty.
+
+SoundPack.lua
