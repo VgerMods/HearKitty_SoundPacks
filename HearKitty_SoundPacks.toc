@@ -1,6 +1,6 @@
-## Interface: 90205
+## Interface: 100000
 ## Dependencies: HearKitty
-## Version: Volume 2 (WoW 9.2.5)
+## Version: Volume 2 (WoW 10.0.0)
 ## Title: Hear Kitty: official sounds
 ## Notes: Adds several additional sound packs to Hear Kitty.
 
