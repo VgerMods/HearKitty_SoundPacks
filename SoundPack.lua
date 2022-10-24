@@ -17,7 +17,7 @@ KittyRegisterSoundPack("SymphonyQuiet", {
 	Credits = KittyUIFrame_AboutHeaderLabel_Text,
 	SoundDelay = 0.35,
 	LongSoundDelay = 1,
-	
+
 	Combo6StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\0.ogg",
 	Combo6StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\2.ogg",
 	Combo6StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\1.ogg",
@@ -25,20 +25,20 @@ KittyRegisterSoundPack("SymphonyQuiet", {
 	Combo6StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\3.ogg",
 	Combo6StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\4.ogg",
 	Combo6StackSound6 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\5.ogg",
-	
+
 	Combo5StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\0.ogg",
 	Combo5StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\1.ogg",
 	Combo5StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\2.ogg",
 	Combo5StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\3.ogg",
 	Combo5StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\4.ogg",
 	Combo5StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\5.ogg",
-	
+
 	Combo4StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\0.ogg",
 	Combo4StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\1.ogg",
 	Combo4StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\2.ogg",
 	Combo4StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\4.ogg",
 	Combo4StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\5.ogg",
-	
+
 	Combo3StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\0.ogg",
 	Combo3StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\3.ogg",
 	Combo3StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyQuiet\\4.ogg",
@@ -65,20 +65,20 @@ KittyRegisterSoundPack("SymphonyLoud", {
 	Combo6StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\3.ogg",
 	Combo6StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\4.ogg",
 	Combo6StackSound6 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\5.ogg",
-	
+
 	Combo5StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\0.ogg",
 	Combo5StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\1.ogg",
 	Combo5StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\2.ogg",
 	Combo5StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\3.ogg",
 	Combo5StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\4.ogg",
 	Combo5StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\5.ogg",
-	
+
 	Combo4StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\0.ogg",
 	Combo4StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\1.ogg",
 	Combo4StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\2.ogg",
 	Combo4StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\4.ogg",
 	Combo4StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\5.ogg",
-	
+
 	Combo3StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\0.ogg",
 	Combo3StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\3.ogg",
 	Combo3StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\SymphonyLoud\\4.ogg",
@@ -103,20 +103,20 @@ KittyRegisterSoundPack("Crystal", {
 	Combo6StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\1.ogg",
 	Combo6StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\4.ogg",
 	Combo6StackSound6 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\5.ogg",
-	
+
 	Combo5StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\0.ogg",
 	Combo5StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\1.ogg",
 	Combo5StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\2.ogg",
 	Combo5StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\1.ogg",
 	Combo5StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\4.ogg",
 	Combo5StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\5.ogg",
-	
+
 	Combo4StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\0.ogg",
 	Combo4StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\1.ogg",
 	Combo4StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\2.ogg",
 	Combo4StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\4.ogg",
 	Combo4StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\5.ogg",
-	
+
 	Combo3StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\0.ogg",
 	Combo3StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\1.ogg",
 	Combo3StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Crystal\\4.ogg",
@@ -143,20 +143,20 @@ KittyRegisterSoundPack("CrystalQuiet", {
 	Combo6StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\1.ogg",
 	Combo6StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\4.ogg",
 	Combo6StackSound6 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\5.ogg",
-	
+
 	Combo5StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\0.ogg",
 	Combo5StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\1.ogg",
 	Combo5StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\2.ogg",
 	Combo5StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\1.ogg",
 	Combo5StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\4.ogg",
 	Combo5StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\5.ogg",
-	
+
 	Combo4StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\0.ogg",
 	Combo4StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\1.ogg",
 	Combo4StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\2.ogg",
 	Combo4StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\4.ogg",
 	Combo4StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\5.ogg",
-	
+
 	Combo3StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\0.ogg",
 	Combo3StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\1.ogg",
 	Combo3StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\CrystalQuiet\\4.ogg",
@@ -183,20 +183,20 @@ KittyRegisterSoundPack("Powerup", {
 	Combo6StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\1.ogg",
 	Combo6StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\4.ogg",
 	Combo6StackSound6 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\5.ogg",
-	
+
 	Combo5StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\0.ogg",
 	Combo5StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\1.ogg",
 	Combo5StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\2.ogg",
 	Combo5StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\1.ogg",
 	Combo5StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\4.ogg",
 	Combo5StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\5.ogg",
-	
+
 	Combo4StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\0.ogg",
 	Combo4StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\1.ogg",
 	Combo4StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\2.ogg",
 	Combo4StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\4.ogg",
 	Combo4StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\5.ogg",
-	
+
 	Combo3StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\0.ogg",
 	Combo3StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\1.ogg",
 	Combo3StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Powerup\\4.ogg",
