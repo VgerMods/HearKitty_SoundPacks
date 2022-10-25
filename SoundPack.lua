@@ -6,6 +6,59 @@ if KittyRegisterSoundPack then
 local LocalizedName
 
 ------------------------------------------------------------
+LocalizedName = "Symphony"
+if (GetLocale() == "frFR" or GetLocale() == "deDE") then
+	LocalizedName = "Symphonie"
+elseif (GetLocale() == "esES" or GetLocale() == "esMX") then
+	LocalizedName = "Sinfonía"
+elseif (GetLocale() == "ptBR") then
+	LocalizedName = "Sinfonia"
+elseif (GetLocale() == "ruRU") then
+	LocalizedName = "Маркато"
+end
+KittyRegisterSoundPack("Symphony", {
+	LocalizedName = LocalizedName,
+	Credits = KittyUIFrame_AboutHeaderLabel_Text,
+	SoundDelay = 0.35,
+	LongSoundDelay = 1,
+
+	Combo7StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\0.ogg",
+	Combo7StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\1.ogg",
+	Combo7StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\2.ogg",
+	Combo7StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\1.ogg",
+	Combo7StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\2.ogg",
+	Combo7StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\3.ogg",
+	Combo7StackSound6 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\4.ogg",
+	Combo7StackSound7 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\5.ogg",
+
+	Combo6StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\0.ogg",
+	Combo6StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\2.ogg",
+	Combo6StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\1.ogg",
+	Combo6StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\2.ogg",
+	Combo6StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\3.ogg",
+	Combo6StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\4.ogg",
+	Combo6StackSound6 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\5.ogg",
+
+	Combo5StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\0.ogg",
+	Combo5StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\1.ogg",
+	Combo5StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\2.ogg",
+	Combo5StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\3.ogg",
+	Combo5StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\4.ogg",
+	Combo5StackSound5 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\5.ogg",
+
+	Combo4StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\0.ogg",
+	Combo4StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\1.ogg",
+	Combo4StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\2.ogg",
+	Combo4StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\4.ogg",
+	Combo4StackSound4 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\5.ogg",
+
+	Combo3StackSound0 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\0.ogg",
+	Combo3StackSound1 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\3.ogg",
+	Combo3StackSound2 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\4.ogg",
+	Combo3StackSound3 = "Interface\\AddOns\\HearKitty_SoundPacks\\Symphony\\5.ogg",
+})
+
+------------------------------------------------------------
 LocalizedName = "Symphony (quiet)"
 if (GetLocale() == "frFR") then
 	LocalizedName = "Symphonie (calme)"
