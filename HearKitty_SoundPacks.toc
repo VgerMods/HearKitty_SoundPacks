@@ -1,4 +1,4 @@
-## Interface: 100207
+## Interface: 110000
 ## Dependencies: HearKitty
 ## Version: Volume 3
 ## Title: Hear Kitty: official sounds
