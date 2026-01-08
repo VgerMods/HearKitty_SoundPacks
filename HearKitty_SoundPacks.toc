@@ -4,4 +4,18 @@
 ## Title: Hear Kitty: official sounds
 ## Notes: Adds several additional sound packs to Hear Kitty.
 
+## Group: HearKitty
+## IconTexture: Interface\AddOns\HearKitty\Textures\HearKittyIcon.tga
+## Category: Combat
+## Category-deDE: Kampf
+## Category-esES: Combate
+## Category-esMX: Combate
+## Category-frFR: Combat
+## Category-itIT: Combattimento
+## Category-koKR: 전투
+## Category-ptBR: Combate
+## Category-ruRU: Бой
+## Category-zhCN: 战斗
+## Category-zhTW: 戰鬥
+
 SoundPack.lua
